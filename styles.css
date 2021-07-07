@@ -103,6 +103,14 @@ hr {
   margin-top: 20%;
 }
 
+.attribution {
+  color: white;
+}
+
+.attribution a {
+  color: white;
+}
+
 @media screen and (min-width: 1024px) {
   .top-img {
     top: -600px;
