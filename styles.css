@@ -104,11 +104,11 @@ hr {
 }
 
 .attribution {
-  color: white;
+  color: #fff;
 }
 
 .attribution a {
-  color: white;
+  color: #fff;
 }
 
 @media screen and (min-width: 1024px) {
